@@ -1,4 +1,8 @@
-body {
+h1 {
   background: lightseagreen;
+  text-align: center;
+}
+
+footer {
   text-align: center;
 }
